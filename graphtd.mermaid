@@ -1,0 +1,7 @@
+graph TD
+    A[Raw Study Data] --> B{Data Validation}
+    B -->|Pass| C[Metric Calculation]
+    B -->|Fail| D[Error Reporting]
+    C --> E[Random-Effects Model]
+    E --> F[Forest Plots]
+    F --> G[Results Export]

@@ -1,0 +1,12 @@
+meta_analysis/
+├── data/
+│   ├── raw_studies.csv          # Original study data
+│   └── extracted_metrics.csv    # Processed 2x2 tables
+├── scripts/
+│   ├── 01_data_processing.py    # Data cleaning
+│   ├── 02_meta_analysis.py      # Main analysis
+│   └── 03_visualization.py      # Forest plots
+├── outputs/
+│   ├── figures/                 # All generated plots
+│   └── results/                 # Statistical outputs
+└── README.md                    # This documentation
