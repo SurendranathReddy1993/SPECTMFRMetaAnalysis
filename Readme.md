@@ -27,7 +27,7 @@ A complete Python workflow for conducting diagnostic test accuracy meta-analyses
 - **Delta method implementation** for accurate confidence intervals
 - **Automated quality checks** for data validation
 - **Reproducible research** with version control support
-- **Multiple visualization options** (forest plots, funnel plots)
+- **Multiple visualization options** (forest plots, SROC)
 
 ## 🛠️ Installation
 
