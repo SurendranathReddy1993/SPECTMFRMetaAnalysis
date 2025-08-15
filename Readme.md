@@ -38,7 +38,7 @@ A complete Python workflow for conducting diagnostic test accuracy meta-analyses
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/diagnostic-meta-analysis.git
+git clone https://github.com/SurendranathReddy1993/SPECTMFRMetaAnalysis.git
 cd diagnostic-meta-analysis
 
 # Create virtual environment (recommended)
